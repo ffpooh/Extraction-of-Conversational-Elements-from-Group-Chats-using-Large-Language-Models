@@ -12,7 +12,7 @@
    - 一款高性能的语言模型，擅长于理解和生成自然语言文本。
 
 2. **Kimi**
-   - Moonshot AI 开发的先进语言模型，以其卓越的对话理解和生成能力而闻名。
+   - Moonshot AI 开发的先进语言模型，凭借其卓越的对话理解和生成能力而闻名。
 
 3. **GPT4 (Generative Pre-trained Transformer)**
    - 由OpenAI开发的革命性模型，以其强大的文本生成和理解能力著称。
